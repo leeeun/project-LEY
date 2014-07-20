@@ -7,9 +7,10 @@ import sys
 sum = 0.0
 n = 0.0 #initialize value
 
-for numberLine in sys.stdin:  #take information from the standard input 
+
+for number1 in sys.stdin:  #take information from the standard input 
 line 
- 	sum += float(numberLine)  
+ 	sum += float(number1)  
 	n += 1.0
 
 print sum/n 
