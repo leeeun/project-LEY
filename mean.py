@@ -8,9 +8,9 @@ sum = 0.0
 n = 0.0 #initialize value
 
 
-for number1 in sys.stdin:  #take information from the standard input 
+for numbering in sys.stdin:  #take information from the standard input 
 line 
- 	sum += float(number1)  
+ 	sum += float(numbering)  
 	n += 1.0
 
 print sum/n 
