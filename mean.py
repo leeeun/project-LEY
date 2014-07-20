@@ -1,5 +1,6 @@
 
-#Make a simple program
+# Make a simple program
+# Sum input values
 
 import sys
 
